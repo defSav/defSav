@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web and software development at Apulia Digital Maker
 - 📫 You can write me on saveriodef@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: if my grandma had wheels she would have been a bike
+- ⚡ Fun fact: if my grandma had wheels she would have been a bicycle
 
 <!---
 defSav/defSav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
